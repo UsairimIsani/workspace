@@ -1,5 +1,8 @@
 [workspace]
 
 members = [
-    "workspace-watcher"
+    "workspace-cli",
+    "workspace-watcher",
+    "workspace-setup",
+    "workspace-directory-manager"
 ]
