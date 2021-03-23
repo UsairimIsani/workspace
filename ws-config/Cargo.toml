@@ -1,5 +1,5 @@
 [package]
-name = "workspace-setup"
+name = "ws-config"
 version = "0.1.0"
 authors = ["Usairim Isani <usairim.isani@outlook.com>"]
 edition = "2018"
